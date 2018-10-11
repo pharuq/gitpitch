@@ -1,5 +1,5 @@
 ## ESportsの世界
-## Street Fighterの場合
+### ~Street Fighterの場合~
 
 ---
 
