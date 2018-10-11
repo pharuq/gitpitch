@@ -1,12 +1,12 @@
-## <font color="Blue">ESports</font>の世界
+## <font color="DodgerBlue">ESports</font>の世界
 ### ~ストリートファイターの場合~
 
 ---
 
 ## ESportsとは
 
-対戦型ゲームの競技シーン
-ゲーム性を理解して見るとめちゃくちゃ面白い
+- 対戦型ゲームの競技シーン
+- ゲーム性を理解して見るとめちゃくちゃ面白い
 
 ---
 
@@ -14,7 +14,7 @@
 
 ---
 
-https://youtu.be/bYFuAVAaSe8?t=641
+https://youtu.be/bYFuAVAaSe8?t=633
 
 ---
 
@@ -25,3 +25,28 @@ https://youtu.be/bYFuAVAaSe8?t=641
   
 ---
 
+## 地上戦における三すくみ
+
+![alt](assets/tizyo.jpg)
+
+---
+
+## 択における三すくみ
+
+![alt](assets/taku.jpg)
+
+---
+
+## その他面白い要素がいっぱいあります
+
+- 格ゲー史上最大の伝説　背水の逆転劇
+- 超理詰めの東大卒プロゲーマー　`マーダーフェイス`ときど
+- プロプレイヤー夫婦　ももち & ちょこ
+- レアキャラ使い&　`島根の仙人`餅ダルシム
+- 強すぎるが故にゲームアップデートでキャラ自体を弱くされてしまったXian
+
+etc..
+
+---
+
+## Let's enjoy ESports!
