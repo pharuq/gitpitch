@@ -10,7 +10,7 @@
 
 ---
 
-![alt](assets/lol_wcs_2017.jpg)
+![Image](assets/lol_wcs_2017.jpg)
 
 ---
 
@@ -27,13 +27,13 @@ https://youtu.be/bYFuAVAaSe8?t=633
 
 ## 地上戦における三すくみ
 
-![alt](assets/tizyo.jpg)
+![Image](assets/tizyo.jpg)
 
 ---
 
 ## 択における三すくみ
 
-![alt](assets/taku.jpg)
+![Image](assets/taku.jpg)
 
 ---
 
