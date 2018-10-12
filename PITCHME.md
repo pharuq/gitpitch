@@ -14,9 +14,13 @@
 
 ---
 
-## とりあえず見て欲しい動画
+## とりあえず見て欲しい\n動画
 
-https://youtu.be/bYFuAVAaSe8?t=633
+- https://youtu.be/bYFuAVAaSe8?t=633
+
+---
+
+めっちゃ外人発狂してるやん:sweat_smile:
 
 ---
 
@@ -41,7 +45,7 @@ https://youtu.be/bYFuAVAaSe8?t=633
 
 ## というわけでもう一度見てみる 
 
-https://youtu.be/bYFuAVAaSe8?t=633
+- https://youtu.be/bYFuAVAaSe8?t=633
 
 ---
 
